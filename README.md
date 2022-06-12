@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Giang Nguyen (Nina)</h1>
 <h3 align="center">A wannabe competent Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giangnguyenn&label=Profile%20views&color=0e75b6&style=flat" alt="giangnguyenn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=giangnguyenn&label=Profile%20views&color=0e75b6&style=flat" alt="giangnguyenn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giangnguyenn" alt="giangnguyenn" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giangnguyenn" alt="giangnguyenn" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, Typescript, NoSQL, and Data Science**
 
 - 📫 How to reach me **quynhgiang9a1ph@gmail.com**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiangNguyenn&show_icons=true&theme=)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiangNguyenn&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
