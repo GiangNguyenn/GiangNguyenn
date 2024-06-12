@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giang Nguyen (Nina)</h1>
-<h3 align="center">A wannabe competent Web Developer</h3>
+<h3 align="center">A Software engineer & AI researcher</h3>
 
 - 🌱 I’m currently learning **ReactJS, Typescript, NoSQL, and Data Science**
 
 - 📫 How to reach me **quynhgiang9a1ph@gmail.com**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiangNguyenn&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
